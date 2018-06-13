@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
        // dá fixbug
+        da
     }
     private void showToast(String msg){
         Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_SHORT).show();
